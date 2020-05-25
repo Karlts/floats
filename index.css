@@ -1,7 +1,7 @@
 * {box-sizing: border-box}
 body {
   font-family: "Lato", sans-serif;
-  background-color: #6c6cff;
+  background-color: #696969;
 }
 
 input::-webkit-outer-spin-button,
@@ -48,7 +48,7 @@ input {
 .tabButton {
   display: block;
   background-color: inherit;
-  background-color: #2196F3;
+  background-color: #404040;
   padding: 22px 16px;
   width: 100%;
   border: none;
